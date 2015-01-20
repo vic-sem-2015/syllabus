@@ -230,6 +230,6 @@ Because our class is intensively collaborative,  I will expect that you will be 
 ### Acknowledgements
 Here is a partial, in-progress list of writing I drew on to create this syllabus, including Nathan Hensley’s [Victorian Literature and Globalization](https://blogs.commons.georgetown.edu/engl-161-spring2013/), Georgetown Spring 2013; Laura Heffernan’s [Victorian Literature and Objectivity](http://lauraheffernan.wordpress.com/teaching-2/) (English 4251, University of North Florida, Spring 2012); Leah Price’s [Victorian Novel class](http://isites.harvard.edu/icb/icb.do?keyword=k105983&pageid=icb.page689455), Anna Kornbluth’s [Novel Worlds](http://www.annakornbluh.com/teaching/novel-worlds-realism-structuralism-aesthetics/)
 
-This syllabus is necessarily an incomplete document; we will revise and save versions of it as the class progresses. The most up-to-date copy will be available on github: https://github.com/rbuurma/vic_sem_2015
+This syllabus is necessarily an incomplete document; we will revise and save versions of it as the class progresses. The most up-to-date copy will be available on our vic-sem-2014 organization page on github: https://github.com/vic-sem-2015/syllabus/blob/master/vic_sem_2015.md
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
