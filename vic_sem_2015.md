@@ -33,10 +33,11 @@ some topics: realism overview; social networks; city and country; news and newsp
 + Georg Lukacs, “Narrate or Describe”*
 + Ian Watt, from *The Rise of the Novel*
 + Roland Barthes, “The Reality Effect”*
-+ Fredric Jameson, “The Realist Floor-plan”*
++ Fredric Jameson, “The Realist Floor-plan”* [Alli]
 + George Levine, from “The Realistic Imagination”
 + create a [Github](https://github.com/) account 
 + workshop: further plain-text authoring for outline creation and publication: Markdown, Git, and Github (with some mention of LaTeX and Pandoc) [Dennis Tenen and Grant Wythoff’s plain-text authoring tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
+discussion and outline: Emily; close reading: Alli; criticism summary: Alli; seminar paper: Sophie; break: Emily
 
 #### February 2: canonical realisms 2 
 some topics: serials and series (what happens when we try to imagine all six Barsetshire novels as part of a single world?); religion and the clergy; marriage; travel
@@ -44,13 +45,14 @@ some topics: serials and series (what happens when we try to imagine all six Bar
 + Trollope, *An Autobiography* (chapters 1, 5,6,7,8)
 + E. S. Dallas review of *Barchester Towers*
 + Michel Foucault, from *Discipline and Punish* (background to Miller)
-+ D.A. Miller, Barchester Towers chapter from *The Novel and the Police**
++ D.A. Miller, Barchester Towers chapter from *The Novel and the Police** Emily
 + Jonathan Arac, “Rhetoric and Realism” from *Impure Worlds*
 + Fredric Jameson, “The Narrative Impulse,” “Realism and the Dissolution of Genre” from *The Antinomies of Realism*
 + workshop: not reading The Chronicles of Barsetshire (inspired by Paul Fyfe’s  How To Not Read a Victorian Novel)
 + optional: Elson, Dames, McKeown, [Extracting Social Networks from Literary Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + possible workshop preparation: extracting data from the Barsetshire series 
 + possible workshop: networking the Barsetshire series 
+discussion and outline: Alli and Geoff; close reading: Sophie; criticism summary: Emily; seminar paper: Deb; break: Alli
 
 #### February 9: narrative and note-taking
 some topics: bildungsroman, Dickens’s life and work, Victorian childhoods, literacy, education, emigration
@@ -64,13 +66,15 @@ some topics: bildungsroman, Dickens’s life and work, Victorian childhoods, lit
 + Simon Reader, [“Victorian Notebooks: Source and Method”](https://www.academia.edu/5011463/Victorian_Notebooks_Source_and_Method)
 + take a look at the [Dickens Notes Project](http://dickensnotes.com/) and the [Versioning Machine](http://v-machine.org/samples.php)
 + workshop: Basic Concepts of TEI Encoding 
+discussion and outline: Emily and Sophie; close reading: Emily; criticism summary: Deb; seminar paper: Alli; break: Alli
 
 #### February 16: reference 
 + Charles Dickens, Great Expectations (second half) 
-+ Elaine Freedgood, from *The Ideas in Things**
-+ Sharon Marcus, Introduction and Chapter 4, *Between Women: Friendship, Desire, and Marriage in Victorian England**
++ Elaine Freedgood, from *The Ideas in Things** [Alli]
++ Sharon Marcus, Introduction and Chapter 4, *Between Women: Friendship, Desire, and Marriage in Victorian England** [Deb]
 + Andrew Miller, “‘A Case of Metaphysics’: Counterfactuals, Realism, Great Expectations”
 + workshop: Novel into Notes - topic modeling *Household Words* alongside *Great Expectations* 
+discussion and outline: Geoff and Deb; close reading: Emily; criticism summary: Alli and Deb; seminar paper: Sophie; break: Geoff
 
 #### February 23: personal knowledge base
 some topics: social problem novel, prison, asylum, investigative journalism; index, database vs [personal knowledge base](http://en.wikipedia.org/wiki/Personal_knowledge_base); Charles Reade’s open research notebook; returning to canon questions
@@ -78,18 +82,20 @@ some topics: social problem novel, prison, asylum, investigative journalism; ind
 + Charles Reade’s notecards
 + description of fictional novelist-researcher Rolfe from A Terrible Temptation 
 + Ann Blair, “Note-taking as Information Management” from *Too Much to Know**
-+ Mary Poovey, “Forgotten Writers, Neglected Histories”*
++ Mary Poovey, “Forgotten Writers, Neglected Histories”* Alli
 + workshop preparation: begin thinking about open notebooks; see [add links] - tech examples: outliners, Github, 
 + workshop: open notebook; choose one “open” practice in addition to your tagged Zotero 
+discussion and outline: Deb and Sophie; close reading: Geoff and Sophie; criticism summary: Alli; seminar paper: Geoff; break: Emily
 
 #### March 2: indexing
 some topics: indexing, cataloging, classifying 
 + Charles Reade, *Hard Cash*, second half
 + Henry Wheatley, from What is an Index? 
 + Michel Foucault, “Classifying,” from The Order of Things
-+ Ronald Day, from *Indexing It All**
++ Ronald Day, from *Indexing It All** [Geoff]
 + indexes to novels: 
-+ Vannevar Bush, As “We May Think”
++ Vannevar Bush, As “We May Think” [Sophie]
+discussion and outline: Alli and Sophie; close reading: Deb; criticism summary: Geoff and Sophie; seminar paper: Emily; break: Geoff
 
 #### March 9: spring break (read *Bouvard et Pécuchet*, begin *Lady Audley’s Secret*)
 
@@ -99,26 +105,29 @@ some topics: encyclopedia,
 + Explore http://flaubert.univ-rouen.fr/bouvard_et_pecuchet/ and http://gallica.bnf.fr/to 
 nb: You will find you need surprisingly little (or no) French to learn something about Flaubert’s research practices from his digitized notes and manuscript pages, but give yourself time. 
 + return to Roland Barthes, “The Reality Effect”
-+ selections from Roland Barthes, *Roland Barthes on Roland Barthes*
-+ selections from Roland Barthes, *The Preparation of the Novel**
++ selections from Roland Barthes, *Roland Barthes on Roland Barthes* [Sophie]
++ selections from Roland Barthes, *The Preparation of the Novel** [Emily]
+discussion and outline: Emily and Geoff; close reading: Alli; criticism summary: Emily and Sophie; seminar paper: Deb; break: Deb
 
 #### March 23: search and research
 some topics: sensation novel, gender and sexuality 
 + Mary Elizabeth Braddon, *Lady Audley's Secret*
-+ article on gender and insanity in Lady Audley* 
++ article on gender and insanity in Lady Audley* [Emily]
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago”*
-+ Daniel Rosenberg, “Stop, Words”*  
++ Daniel Rosenberg, “Stop, Words”* [Sophie]
 + Patrick Leary, “Googling the Victorians” and responses 2007-14 you find
 + Darnton, “Literary Surveillance in the British Raj” 
 + look at the DARPA [Memex project](http://www.darpa.mil/newsevents/releases/2014/02/09.aspx)
 + final paper plan due
+discussion and outline: Emily and Deb; close reading: Geoff; criticism summary: Emily and Sophie; seminar paper: Alli; break: Sophie
 
 #### March 30: noticing everyday life
 + George Eliot, *The Mill on the Floss*
 + George Eliot, “The Natural History of German Life”
-+ Daniel Hack, *Transatlantic Eliot: African American Connections," in *The Blackwell Companion to George Eliot* (2013)*
++ Daniel Hack, *Transatlantic Eliot: African American Connections," in *The Blackwell Companion to George Eliot* (2013)* [Geoff]
 + Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index Rerum, etc)
-+ Introduction to “Denotative, Technically, Literally” special issue, ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter 2014)
++ Introduction to “Denotative, Technically, Literally” special issue, ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter 2014)[Deb]
+discussion and outline: Alli and Geoff; close reading: Emily and Sophie; criticism summary: Deb; seminar paper: Geoff; break: Sophie
 
 #### April 6: 
 + George Eliot, *Middlemarch*, first half
@@ -129,16 +138,18 @@ some topics: sensation novel, gender and sexuality
 + examine *Quarry for Middlemarch*
 + Amy Levy, “The Recent Telepathic Occurrence at the British Museum” and “Readers 
 at the British Museum”
-+ Leah Price, from *The Anthology and the Rise of the Novel**
++ Leah Price, from *The Anthology and the Rise of the Novel** [Geoff]
 + Susan David Bernstein, “Researching Romola” from *Roomscapes**
 + David Kurnick, “An Erotics of Detachment: Middlemarch and Novel-Reading as 
 Critical Practice”*
 + mind maps, concept maps, etc
+discussion and outline: Sophie and Deb; close reading: Alli, Geoff, and Deb; criticism summary: Geoff; seminar paper: Emily; break: Deb
 
 #### April 20: the research effect? 
 + Thomas Hardy, The Return of the Native 
 + Hardy’s Literary notebooks, ‘Facts’ notebooks
 + Elizabeth Miller, from Slow Print
+discussion and outline: Alli; close reading: Emily criticism summary: ; seminar paper: ; break: Rachel
 
 #### April 27
 + seminar choice 
