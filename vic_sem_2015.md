@@ -46,8 +46,7 @@ some topics: serials and series (what happens when we try to imagine all six Bar
 + E. S. Dallas review of *Barchester Towers*
 + Michel Foucault, from *Discipline and Punish* (background to Miller)
 + D.A. Miller, Barchester Towers chapter from *The Novel and the Police** Emily
-+ Jonathan Arac, “Rhetoric and Realism” from *Impure Worlds*
-+ Fredric Jameson, “The Narrative Impulse,” “Realism and the Dissolution of Genre” from *The Antinomies of Realism*
++ optional: Fredric Jameson, “The Narrative Impulse,” “Realism and the Dissolution of Genre” from *The Antinomies of Realism*
 + workshop: not reading The Chronicles of Barsetshire (inspired by Paul Fyfe’s  How To Not Read a Victorian Novel)
 + optional: Elson, Dames, McKeown, [Extracting Social Networks from Literary Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + possible workshop preparation: extracting data from the Barsetshire series 
@@ -127,6 +126,7 @@ discussion and outline: Emily and Deb; close reading: Geoff; criticism summary: 
 + Daniel Hack, *Transatlantic Eliot: African American Connections," in *The Blackwell Companion to George Eliot* (2013)* [Geoff]
 + Pre-printed forms (examples of Lett’s Extract Book, Todd’s Index Rerum, etc)
 + Introduction to “Denotative, Technically, Literally” special issue, ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter 2014)[Deb]
++ Jonathan Arac, “Rhetoric and Realism” from *Impure Worlds*
 discussion and outline: Alli and Geoff; close reading: Emily and Sophie; criticism summary: Deb; seminar paper: Geoff; break: Sophie
 
 #### April 6: 
