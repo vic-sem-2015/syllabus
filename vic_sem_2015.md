@@ -51,7 +51,7 @@ some topics: serials and series (what happens when we try to imagine all six Bar
 + optional: Elson, Dames, McKeown, [Extracting Social Networks from Literary Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-ElsonDamesMcKeown.pdf)
 + possible workshop preparation: extracting data from the Barsetshire series 
 + possible workshop: networking the Barsetshire series 
-discussion and outline: Alli and Geoff; close reading: Sophie; criticism summary: Emily; seminar paper: Deb; break: Alli
+discussion and outline: Alli and Geoff; close reading: Sophie; criticism summary: Emily; seminar paper: Sophie (from last week); break: Alli
 
 #### February 9: narrative and note-taking
 some topics: bildungsroman, Dickens’s life and work, Victorian childhoods, literacy, education, emigration
