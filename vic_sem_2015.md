@@ -114,10 +114,10 @@ some topics: sensation novel, gender and sexuality
 + article on gender and insanity in Lady Audley* [Emily]
 + Ted Underwood, “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago”*
 + Daniel Rosenberg, “Stop, Words”* [Sophie]
-+ Patrick Leary, “Googling the Victorians” and responses 2007-14 you find
++ Patrick Leary, (“Googling the Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + Darnton, “Literary Surveillance in the British Raj” 
 + look at the DARPA [Memex project](http://www.darpa.mil/newsevents/releases/2014/02/09.aspx)
-+ final paper plan due
++ final paper plan due March 25th 
 discussion and outline: Emily and Deb; close reading: Geoff; criticism summary: Emily and Sophie; seminar paper: Alli; break: Sophie
 
 #### March 30: noticing everyday life
